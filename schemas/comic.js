@@ -79,7 +79,7 @@ export default {
     {
       name: 'rate',
       title: 'Rate',
-      type: 'string',
+      type: 'number',
     },
     {
       name: 'type',
