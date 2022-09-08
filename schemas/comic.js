@@ -121,7 +121,7 @@ export default {
           {title: 'غموض', value: 'غموض'},
           {title: 'خارق', value: 'خارق'},
           {title: 'رياضة', value: 'رياضة'},
-          {title: 'تاريحي', value: 'تاريحي'},
+          {title: 'تاريخي', value: 'تاريخي'},
           {title: 'رعب', value: 'رعب'},
           {title: 'حميمي', value: 'حميمي'},
           {title: 'ثقافي', value: 'ثقافي'},
