@@ -41,7 +41,16 @@ export default {
         hotspot: true,
       },
     },
-    
+    {
+      name: 'original',
+      title: 'Original',
+      type: 'boolean',
+    },
+    {
+      name: 'canvas',
+      title: 'Canvas',
+      type: 'boolean',
+    },
     {
       name: 'trending',
       title: 'Trending',
