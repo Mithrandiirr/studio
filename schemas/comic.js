@@ -104,9 +104,9 @@ export default {
       }
     },
     {
-      name: 'popularity',
-      title: 'Popularity',
-      type: 'string',
+      name: 'views',
+      title: 'Views',
+      type: 'number',
     },
     {
       name: 'author',
