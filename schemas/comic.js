@@ -41,9 +41,20 @@ export default {
         hotspot: true,
       },
     },
+    
     {
       name: 'trending',
       title: 'Trending',
+      type: 'boolean',
+    },
+    {
+      name: 'mostwatched',
+      title: 'Most Watched',
+      type: 'boolean',
+    },
+    {
+      name: 'new',
+      title: 'New',
       type: 'boolean',
     },
     {
@@ -86,7 +97,12 @@ export default {
     {
       name: 'popularity',
       title: 'Popularity',
-      type: 'number',
+      type: 'string',
+    },
+    {
+      name: 'author',
+      title: 'Author',
+      type: 'string',
     },
     {
       name: 'tags',

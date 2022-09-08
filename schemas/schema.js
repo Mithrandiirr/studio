@@ -26,18 +26,9 @@ export default createSchema({
   types: schemaTypes.concat([
     // The following are document types which will appear
     // in the studio.
-    movie,
-    person,
-    screening,
     comic,
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
-    blockContent,
-    plotSummary,
-    plotSummaries,
-    castMember,
-    crewMember,
     chapter,
-    tag,
   ]),
 })
