@@ -119,14 +119,14 @@ export default {
       type: 'string',
       options: {
         list: [
-          {title: 'رومانسية', value: 'رومانسية'},
+          {title: 'رومانسية', value: 'رومانسية' },
           {title: 'فانتازيا', value: 'فانتازيا'},
           {title: 'اكشن', value: 'اكشن'},
           {title: 'دراما', value: 'دراما'},
-          {title: 'كوميديا', value: 'كوميديا'},
+          {title: 'كوميديا', value: 'كوميديا' },
           {title: 'شريحة من الحياة', value: 'شريحة'},
           {title: 'خيال علمي', value: 'خيال'},
-          {title: 'اثارة', value: 'اثارة'},
+          {title: 'اثارة', value: 'اثارة' },
           {title: 'غموض', value: 'غموض'},
           {title: 'خارق', value: 'خارق'},
           {title: 'رياضة', value: 'رياضة'},
